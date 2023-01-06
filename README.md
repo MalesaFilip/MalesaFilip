@@ -40,4 +40,5 @@ Here are some ideas to get you started:
 ![js_logo](https://user-images.githubusercontent.com/121855877/211010113-3da62909-7a7e-49b6-bcf9-e21090ee41f9.png)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalesaFilip&langs_count=5)](https://github.com/MalesaFilip/github-readme-stats)
 
