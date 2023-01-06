@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ## ☎️ Contact Me: ##
 ![gmail_logo](https://user-images.githubusercontent.com/121855877/211012302-7f0538ab-4347-405e-9d06-c86e89db0e90.png)
 ![linkedin_logo](https://user-images.githubusercontent.com/121855877/211012140-fc629ebf-1502-4bde-b60a-f1ab860a2787.png)
+![Instagram_logo](https://user-images.githubusercontent.com/121855877/211027923-b46a239e-fb6f-4b93-bc0a-77cf13a96e65.png)
 
 
 
