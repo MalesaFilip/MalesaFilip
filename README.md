@@ -45,3 +45,6 @@ Here are some ideas to get you started:
 ](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalesaFilip&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🎼 Listen it with me: ##
+[![argyros_logo](https://user-images.githubusercontent.com/121855877/211039896-9e8719a2-fd2f-42b5-ad3e-bdcda8d21bb7.jpeg)](https://open.spotify.com/album/6OqLxDFzcx4KrOsxZxG3VC?si=8Y8IH6sjQYKvKjLEoe-9-g)
