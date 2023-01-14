@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 ![js_logo](https://user-images.githubusercontent.com/121855877/211010113-3da62909-7a7e-49b6-bcf9-e21090ee41f9.png)
 
 
-[![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalesaFilip&show_icons=true&theme=merko)
-](https://github.com/anuraghazra/github-readme-stats)
+[![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalesaFilip)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalesaFilip&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
