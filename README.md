@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 📚I am self-taught Python developer
 
 - 🇵🇱 I am from Poland/Warsaw
-
+<!--
 - 🇬🇷 Currently I am a direction manager in a tour company in Greece
-
+-->
 
 
 
